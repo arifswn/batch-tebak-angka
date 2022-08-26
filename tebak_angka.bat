@@ -6,11 +6,11 @@ cls
 :CONFIRM
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                              .:: Instruction ::.
 echo.
@@ -37,11 +37,11 @@ goto CONFIRM
 :TABEL1
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                                .:: TABEL 1 ::.
 echo.
@@ -68,11 +68,11 @@ goto TABEL1
 :TABEL2
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                                .:: TABEL 2 ::.
 echo.
@@ -99,11 +99,11 @@ goto TABEL2
 :TABEL4
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                                .:: TABEL 4 ::.
 echo.
@@ -130,11 +130,11 @@ goto TABEL4
 :TABEL8
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                                .:: TABEL 8 ::.
 echo.
@@ -161,11 +161,11 @@ goto TABEL8
 :TABEL16
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                                .:: TABEL 16 ::.
 echo.
@@ -193,11 +193,11 @@ goto TABEL16
 set /a "has=%tab1% + %tab2% + %tab4% + %tab8% + %tab16%"
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                                .:: Warning ::.
 echo.
@@ -229,11 +229,11 @@ goto EXIT
 :ABOUT
 cls
 echo _______________________________________________________________________________
-echo                             PERMAINAN TEBAK ANGKA
-echo                                     v1.0
+echo                               PERMAINAN TEBAK ANGKA
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo                             .:: Main Features ::.
 echo.
